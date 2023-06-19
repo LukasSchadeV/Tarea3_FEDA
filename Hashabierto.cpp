@@ -1,8 +1,8 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-#include <math.h>
+#include <iostream>   // Entrada y salida estándar
+#include <fstream>    // Manipulación de archivos
+#include <string>     // Para la cadenas de caracteres
+#include <vector>     // Contenedor de arrays dinámicos
+#include <math.h>     // Funciones matemáticas
 using namespace std;
 
 struct UserData {
